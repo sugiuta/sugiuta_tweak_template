@@ -1,4 +1,4 @@
-# Sugiuta's Template for Theos.
+# Template for Theos.
 
 This template is a file used to develop tweaks specifically for Jailbroken iDevices.
 This is the template I use when developing tweaks.
