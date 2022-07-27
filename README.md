@@ -7,4 +7,4 @@ This is the template I use when developing tweaks.
 After downloading this file to $THEOS/templates, run $THEOS/bin/nicify.pl sugiuta_tweak_template.
 
 ## LICENSE:
-MIT
+[MIT](https://github.com/sugiuta/sugiuta_tweak_template/blob/master/LICENSE.md)
