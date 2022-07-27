@@ -1,6 +1,6 @@
-# Template for Theos.
+# Template for Theos
 
-This template is a file used to develop tweaks specifically for Jailbroken iDevices.
+This template is a file to be used when developing a Tweak for a Jailbroken iDevice.
 This is the template I use when developing tweaks.
 
 ## Installation:
